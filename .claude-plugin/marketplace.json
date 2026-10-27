@@ -1,0 +1,20 @@
+{
+  "name": "skillmaster-dev",
+  "description": "Development marketplace for SkillMaster core skills library",
+  "owner": {
+    "name": "Jesse Vincent",
+    "email": "jesse@fsck.com"
+  },
+  "plugins": [
+    {
+      "name": "skillmaster",
+      "description": "Core skills library for Claude Code: TDD, debugging, collaboration patterns, and proven techniques",
+      "version": "7.0.1",
+      "source": "./",
+      "author": {
+        "name": "Jesse Vincent",
+        "email": "jesse@fsck.com"
+      }
+    }
+  ]
+}

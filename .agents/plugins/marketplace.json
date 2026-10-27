@@ -1,0 +1,20 @@
+{
+  "name": "skillmaster-dev",
+  "interface": {
+    "displayName": "SkillMaster Dev"
+  },
+  "plugins": [
+    {
+      "name": "skillmaster",
+      "source": {
+        "source": "url",
+        "url": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    }
+  ]
+}

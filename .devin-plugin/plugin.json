@@ -1,0 +1,22 @@
+{
+  "name": "skillmaster",
+  "version": "7.0.1",
+  "description": "An agentic skills framework & software development methodology that works: planning, TDD, debugging, and collaboration workflows.",
+  "author": {
+    "name": "Jesse Vincent",
+    "email": "jesse@fsck.com"
+  },
+  "homepage": "https://github.com/skillmaster/skillmaster",
+  "repository": "https://github.com/skillmaster/skillmaster",
+  "license": "MIT",
+  "keywords": [
+    "brainstorming",
+    "subagent-driven-development",
+    "skills",
+    "planning",
+    "tdd",
+    "debugging",
+    "code-review",
+    "workflow"
+  ]
+}

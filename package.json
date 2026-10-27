@@ -1,0 +1,23 @@
+{
+  "name": "skillmaster",
+  "version": "7.0.1",
+  "description": "SkillMaster skills and runtime bootstrap for coding agents",
+  "type": "module",
+  "main": ".opencode/plugins/skillmaster.js",
+  "keywords": [
+    "pi-package",
+    "skills",
+    "tdd",
+    "debugging",
+    "collaboration",
+    "workflow"
+  ],
+  "pi": {
+    "extensions": [
+      "./.pi/extensions/skillmaster.ts"
+    ],
+    "skills": [
+      "./skills"
+    ]
+  }
+}
