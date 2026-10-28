@@ -3,8 +3,7 @@
   "version": "7.0.1",
   "description": "An agentic skills framework & software development methodology that works: planning, TDD, debugging, and collaboration workflows.",
   "author": {
-    "name": "Jesse Vincent",
-    "email": "jesse@fsck.com"
+    "name": "Varun Kumar"
   },
   "homepage": "https://github.com/skillmaster/skillmaster",
   "repository": "https://github.com/skillmaster/skillmaster",

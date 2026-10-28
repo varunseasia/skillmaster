@@ -3,9 +3,7 @@
   "version": "7.0.1",
   "description": "An agentic skills framework & software development methodology that works: planning, TDD, debugging, and collaboration workflows.",
   "author": {
-    "name": "Jesse Vincent",
-    "email": "jesse@fsck.com",
-    "url": "https://github.com/obra"
+    "name": "Varun Kumar"     
   },
   "homepage": "https://github.com/skillmaster/skillmaster",
   "repository": "https://github.com/skillmaster/skillmaster",
@@ -26,7 +24,7 @@
     "displayName": "SkillMaster",
     "shortDescription": "Planning, TDD, debugging, and delivery workflows for coding agents",
     "longDescription": "Use SkillMaster to guide agent work through brainstorming, implementation planning, test-driven development, systematic debugging, parallel execution, code review, and finish-the-branch workflows.",
-    "developerName": "Jesse Vincent",
+    "developerName": "Varun Kumar",
     "category": "Developer Tools",
     "capabilities": [
       "Interactive",
